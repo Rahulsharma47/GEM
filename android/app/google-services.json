@@ -1,0 +1,358 @@
+{
+  "project_info": {
+    "project_number": "1016707959718",
+    "project_id": "goeleventhmileapp",
+    "storage_bucket": "goeleventhmileapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016707959718:android:8bdfdcc2af90eeee189d67",
+        "android_client_info": {
+          "package_name": "com.goeleventhmile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016707959718-8kv248389lel8504g96fivlg99jvqn0d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goeleventhmile",
+            "certificate_hash": "96081b51297ee1e400508c0de2c938515042dc29"
+          }
+        },
+        {
+          "client_id": "1016707959718-fqncve419rn185pgm5f05mlll9c2vcvl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goeleventhmile",
+            "certificate_hash": "de5fd560b85f71fcee2a079285100f3e6381339c"
+          }
+        },
+        {
+          "client_id": "1016707959718-jtg2r1dk3gfejb12k2k4pg5h9ogot65b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goeleventhmile",
+            "certificate_hash": "24e3c7de99e088d32b08d5f03a3d9198aa29a1d2"
+          }
+        },
+        {
+          "client_id": "1016707959718-s1i9co9sto65f7ps50hbcn34tv4okq9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goeleventhmile",
+            "certificate_hash": "58399022519efa83ce54a342bb632ae7e19f8fd7"
+          }
+        },
+        {
+          "client_id": "1016707959718-svqvsndba03bhtfkhtojonp23e7mv127.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goeleventhmile",
+            "certificate_hash": "fcc9da362686bdc5f8cf96b2d3b101d1bf5fe760"
+          }
+        },
+        {
+          "client_id": "1016707959718-ufrr86j93gt9kqj8v86g4bbc2lpcem1j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goeleventhmile",
+            "certificate_hash": "6c4d00c0af8a245bee339b04083c9f87d3d173aa"
+          }
+        },
+        {
+          "client_id": "1016707959718-j282j8l4gmknlgdjdj5go0lm16cm7o75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaLLvb2C9tjmLHYEOVynSm9xV6xnKU7Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016707959718-j282j8l4gmknlgdjdj5go0lm16cm7o75.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1016707959718-81n64q167u45qnbm6e2litpa3p3n5e3v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.goeleventhmile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016707959718:android:af4ee8438e450428189d67",
+        "android_client_info": {
+          "package_name": "com.goeleventhmile.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016707959718-3fu7k53h14gh031ljq2lfbj5ugsub15o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goeleventhmile.admin",
+            "certificate_hash": "fc9db0e93300b1b7f38dcd9b390ede947b99a5d4"
+          }
+        },
+        {
+          "client_id": "1016707959718-5eregppgv6ctvdmc00b1gnhohan4fptu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goeleventhmile.admin",
+            "certificate_hash": "fcc9da362686bdc5f8cf96b2d3b101d1bf5fe760"
+          }
+        },
+        {
+          "client_id": "1016707959718-9f8gklrmgd5ihn5u339sj43qlra2eiv7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goeleventhmile.admin",
+            "certificate_hash": "2ae2f573367fbc4e026e28544d5b957922a80c8d"
+          }
+        },
+        {
+          "client_id": "1016707959718-f5tgkfov1nafuhqsgv3vf5obm160h3me.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goeleventhmile.admin",
+            "certificate_hash": "de5fd560b85f71fcee2a079285100f3e6381339c"
+          }
+        },
+        {
+          "client_id": "1016707959718-gnh2m1j58a6jcnsq6fq3uufardluo6g7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goeleventhmile.admin",
+            "certificate_hash": "6c4d00c0af8a245bee339b04083c9f87d3d173aa"
+          }
+        },
+        {
+          "client_id": "1016707959718-insud3a8lqf10ae1ek9b0g4uu1srutb2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goeleventhmile.admin",
+            "certificate_hash": "58399022519efa83ce54a342bb632ae7e19f8fd7"
+          }
+        },
+        {
+          "client_id": "1016707959718-jrm5drcfqj1ltitrd5vgd2nb1goqee0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goeleventhmile.admin",
+            "certificate_hash": "d32c7997e113c068dd147c869ca51d9e7c332235"
+          }
+        },
+        {
+          "client_id": "1016707959718-m494hesm1alkpsem6min6st4p1o0pgig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goeleventhmile.admin",
+            "certificate_hash": "28bf3ecfdd94473b63d71d34184df9b61f2cd723"
+          }
+        },
+        {
+          "client_id": "1016707959718-qj4sdqhk75315a2k6uvkftlefeabt1j1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goeleventhmile.admin",
+            "certificate_hash": "4c5c508c95b1d32965a2c83befddf514640e3acf"
+          }
+        },
+        {
+          "client_id": "1016707959718-vk13mm90b1pq86l43qvn19snd724kdun.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goeleventhmile.admin",
+            "certificate_hash": "8fd88e7ce01220703240e69488d892c7ef07436a"
+          }
+        },
+        {
+          "client_id": "1016707959718-j282j8l4gmknlgdjdj5go0lm16cm7o75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaLLvb2C9tjmLHYEOVynSm9xV6xnKU7Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016707959718-j282j8l4gmknlgdjdj5go0lm16cm7o75.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1016707959718-81n64q167u45qnbm6e2litpa3p3n5e3v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.goeleventhmile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016707959718:android:d9e3d6cec23fdbe8189d67",
+        "android_client_info": {
+          "package_name": "com.goeleventhmile.biz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016707959718-gi3kpdp2lkn6u9541eb2sb8e9nskcucq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goeleventhmile.biz",
+            "certificate_hash": "b72b345294e72544909f4388bff4cce0e0e10506"
+          }
+        },
+        {
+          "client_id": "1016707959718-j282j8l4gmknlgdjdj5go0lm16cm7o75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaLLvb2C9tjmLHYEOVynSm9xV6xnKU7Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016707959718-j282j8l4gmknlgdjdj5go0lm16cm7o75.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1016707959718-81n64q167u45qnbm6e2litpa3p3n5e3v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.goeleventhmile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016707959718:android:ec8259f4e3e362f5189d67",
+        "android_client_info": {
+          "package_name": "com.goeleventhmile.business"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016707959718-7p4g2nmv2t920kb6b4ql0ie1fj8if24t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goeleventhmile.business",
+            "certificate_hash": "d32c7997e113c068dd147c869ca51d9e7c332235"
+          }
+        },
+        {
+          "client_id": "1016707959718-evefa94v2u84uivar1nuq3rr5cshso9p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goeleventhmile.business",
+            "certificate_hash": "96081b51297ee1e400508c0de2c938515042dc29"
+          }
+        },
+        {
+          "client_id": "1016707959718-gpvgk17i2ri6fvfr01qdsj5jedfanb12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goeleventhmile.business",
+            "certificate_hash": "4c5c508c95b1d32965a2c83befddf514640e3acf"
+          }
+        },
+        {
+          "client_id": "1016707959718-j282j8l4gmknlgdjdj5go0lm16cm7o75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaLLvb2C9tjmLHYEOVynSm9xV6xnKU7Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016707959718-j282j8l4gmknlgdjdj5go0lm16cm7o75.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1016707959718-81n64q167u45qnbm6e2litpa3p3n5e3v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.goeleventhmile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016707959718:android:5ea91c3beb7e4783189d67",
+        "android_client_info": {
+          "package_name": "com.goeleventhmile.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016707959718-irhj8m8s5t2ibl40t53bve44o5fgi28f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goeleventhmile.delivery",
+            "certificate_hash": "614d42a5e02d610ee04579f0e7f853ced03d8f3b"
+          }
+        },
+        {
+          "client_id": "1016707959718-j282j8l4gmknlgdjdj5go0lm16cm7o75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaLLvb2C9tjmLHYEOVynSm9xV6xnKU7Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016707959718-j282j8l4gmknlgdjdj5go0lm16cm7o75.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1016707959718-81n64q167u45qnbm6e2litpa3p3n5e3v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.goeleventhmile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

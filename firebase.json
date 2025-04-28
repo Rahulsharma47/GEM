@@ -1,0 +1,8 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"goeleventhmileapp",
+                            "appId":"1:1016707959718:android:d9e3d6cec23fdbe8189d67",
+                            "fileOutput":"android/app/google-services.json"}},
+                         "ios":{"default":{"projectId":"goeleventhmileapp",
+                            "appId":"1:1016707959718:ios:5645174620d7a1a6189d67",
+                            "uploadDebugSymbols":false,"fileOutput":"ios/Runner/GoogleService-Info.plist"}},
+                         "dart":{"lib/firebase_options.dart":{"projectId":"goeleventhmileapp","configurations":{
+                            "android":"1:1016707959718:android:d9e3d6cec23fdbe8189d67","ios":"1:1016707959718:ios:5645174620d7a1a6189d67"}}}}}}
